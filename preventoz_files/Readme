@@ -1,0 +1,5 @@
+Worked on implementing the User Interface as shown in ui_casestudy.png
+
+For UI I used Bootstrap framework along with HTML5 and CSS and I used Jquery AJAX for loading more results dynamically from MySQL database with PHP and Sql.For mocking server calls/api-request/api-response I used static json.
+
+Attached demo,screenshots and files of the case study.
